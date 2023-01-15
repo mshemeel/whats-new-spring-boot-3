@@ -1,3 +1,6 @@
+# Youtube link
+- https://www.youtube.com/watch?v=TR254zh-f3c
+
 # What's new in Spring Boot 3.0
 
 Spring Framework 6 and Spring Boot 3 have been released. This is an example project that I am using to 
